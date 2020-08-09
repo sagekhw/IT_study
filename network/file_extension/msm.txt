@@ -1,3 +1,12 @@
+study https://www.wintun.net/
+
 - open source - wix
 url : https://wixtoolset.org/releases/
-Production Builds > download 'wix310.exe(Wix v3.10.4)' > install > 
+Production Builds > download 'wix310.exe(Wix v3.10.4)' > install > [can't open the msm file extension]
+Wix Toolset Visual Studio 2019 Extension > download > run visual studio > can create something about wix project
+
+@ I read the wix documemt quickly. I think there haven't run the msm file extention. It just develop to something  by wix. 
+
+The most useful information.
+url list
+- https://medium.com/@kmdkhadeer/wix-creating-merge-modules-msm-and-msi-354fdd29a26e
