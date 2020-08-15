@@ -1,1 +1,19 @@
-just search to "windows application sandbox github"
+mission : just search to "windows application sandbox github"
+
+READ information without code.
+
+- They developed something to customizing by sandbox. which sandbox editor to edit sandbox's config.
+- about security : android, linux kernel....
+- some application which provied to install msi file on right click list by mouse.
+- sandbox worer api (cli)
+- out of process COM server
+- WSBManager
+- Flying Sandbox Monster(A proof-of-concept application that sandboxes the Malware Protection engine in an AppContainer on Windows, written in Rust)
+- Sandboxed Execution Environment (SEE) is a framework for building test automation in secured Environments.
+-
+
+
+
+
+
+https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools/blob/master/README.txt
