@@ -1,0 +1,77 @@
+Aug 13 10:21:23 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[INFO ] Socket 12: AF_INET6 connection received from ::ffff:52.171.59.109 port 54971
+Aug 13 10:21:23 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:123.214.43.178 port 3389)
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[INFO ] Using default X.509 certificate: /etc/xrdp/cert.pem
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[INFO ] Using default X.509 key file: /etc/xrdp/key.pem
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[DEBUG] TLSv1.2 enabled
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[DEBUG] TLSv1.1 enabled
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[DEBUG] TLSv1 enabled
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[DEBUG] Security layer: requested 3, selected 1
+Aug 13 10:21:23 hw-System-Product-Name xrdp[10649]: (10649)(140404048545600)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:123.214.43.178 port 3389)
+Aug 13 10:21:34 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[INFO ] Socket 12: AF_INET6 connection received from ::ffff:121.241.184.36 port 6720
+Aug 13 10:21:34 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:123.214.43.178 port 3389)
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[INFO ] Using default X.509 certificate: /etc/xrdp/cert.pem
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[INFO ] Using default X.509 key file: /etc/xrdp/key.pem
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[DEBUG] TLSv1.2 enabled
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[DEBUG] TLSv1.1 enabled
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[DEBUG] TLSv1 enabled
+Aug 13 10:21:34 hw-System-Product-Name xrdp[10652]: (10652)(140404048545600)[DEBUG] Security layer: requested 3, selected 1
+Aug 13 10:21:41 hw-System-Product-Name kernel: [521341.223615] [UFW BLOCK] IN=enp0s31f6 OUT= MAC=30:5a:3a:df:ce:be:00:23:aa:23:59:e1:08:00 SRC=185.156.73.60 DST=123.214.43.178 LEN=40 TOS=0x00 PREC=0x00 TTL=240 ID=8430 PROTO=TCP SPT=54199 DPT=33476 WINDOW=1024 RES=0x00 SYN URGP=0 
+Aug 13 10:22:12 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[INFO ] Socket 12: AF_INET6 connection received from ::ffff:121.241.184.37 port 18294
+Aug 13 10:22:12 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:123.214.43.178 port 3389)
+Aug 13 10:22:12 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Aug 13 10:22:12 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[INFO ] Using default X.509 certificate: /etc/xrdp/cert.pem
+Aug 13 10:22:12 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[INFO ] Using default X.509 key file: /etc/xrdp/key.pem
+Aug 13 10:22:13 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[DEBUG] TLSv1.2 enabled
+Aug 13 10:22:13 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[DEBUG] TLSv1.1 enabled
+Aug 13 10:22:13 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[DEBUG] TLSv1 enabled
+Aug 13 10:22:13 hw-System-Product-Name xrdp[10655]: (10655)(140404048545600)[DEBUG] Security layer: requested 3, selected 1
+Aug 13 10:22:35 hw-System-Product-Name kernel: [521395.981793] [UFW BLOCK] IN=enp0s31f6 OUT= MAC=30:5a:3a:df:ce:be:94:3b:b1:a2:57:46:08:00 SRC=123.214.43.180 DST=123.214.43.178 LEN=351 TOS=0x00 PREC=0x00 TTL=64 ID=0 DF PROTO=UDP SPT=33887 DPT=59951 LEN=331 
+Aug 13 10:22:37 hw-System-Product-Name kernel: [521397.421075] [UFW BLOCK] IN=enp0s31f6 OUT= MAC=30:5a:3a:df:ce:be:94:3b:b1:a2:57:46:08:00 SRC=123.214.43.180 DST=123.214.43.178 LEN=351 TOS=0x00 PREC=0x00 TTL=64 ID=0 DF PROTO=UDP SPT=33887 DPT=59951 LEN=331 
+Aug 13 10:22:38 hw-System-Product-Name kernel: [521398.587210] [UFW BLOCK] IN=enp0s31f6 OUT= MAC=30:5a:3a:df:ce:be:94:3b:b1:a2:57:46:08:00 SRC=123.214.43.180 DST=123.214.43.178 LEN=351 TOS=0x00 PREC=0x00 TTL=64 ID=0 DF PROTO=UDP SPT=33887 DPT=59951 LEN=331 
+Aug 13 10:23:20 hw-System-Product-Name kernel: [521441.015391] [UFW BLOCK] IN=enp0s31f6 OUT= MAC=30:5a:3a:df:ce:be:00:23:aa:23:59:e1:08:00 SRC=77.247.108.119 DST=123.214.43.178 LEN=40 TOS=0x00 PREC=0x00 TTL=234 ID=8057 PROTO=TCP SPT=41430 DPT=5160 WINDOW=1024 RES=0x00 SYN URGP=0 
+Aug 13 10:23:38 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[INFO ] Socket 12: AF_INET6 connection received from ::ffff:52.171.59.109 port 54549
+Aug 13 10:23:38 hw-System-Product-Name xrdp[1054]: (1054)(140404048545600)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:123.214.43.178 port 3389)
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[INFO ] Using default X.509 certificate: /etc/xrdp/cert.pem
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[INFO ] Using default X.509 key file: /etc/xrdp/key.pem
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[DEBUG] TLSv1.2 enabled
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[DEBUG] TLSv1.1 enabled
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[DEBUG] TLSv1 enabled
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[DEBUG] Security layer: requested 3, selected 1
+Aug 13 10:23:38 hw-System-Product-Name xrdp[10665]: (10665)(140404048545600)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:123.214.43.178 port 3389)
+Aug 13 10:23:49 hw-System-Product-Name kernel: [521469.399094] [UFW BLOCK] IN=enp0s31f6 OUT= MAC=01:00:5e:00:00:01:00:27:1c:44:0a:d4:08:00 SRC=175.118.111.115 DST=224.0.0.1 LEN=32 TOS=0x00 PREC=0xC0 TTL=1 ID=0 PROTO=2 
+\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00Aug 16 15:41:57 hw-System-Product-Name systemd-modules-load[361]: Inserted module 'lp'
+Aug 16 15:41:57 hw-System-Product-Name systemd-modules-load[361]: Inserted module 'ppdev'
+Aug 16 15:41:57 hw-System-Product-Name systemd-modules-load[361]: Inserted module 'parport_pc'
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Starting Flush Journal to Persistent Storage...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Started Set the console keyboard layout.
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Reached target Local File Systems (Pre).
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-system-monitor, revision 148...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for core, revision 9804...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-3-28-1804, revision 116...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-calculator, revision 730...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-3-34-1804, revision 33...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for core, revision 9665...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-characters, revision 550...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for core18, revision 1885...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gtk-common-themes, revision 1502...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-logs, revision 100...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gtk-common-themes, revision 1506...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Reached target Local File Systems.
+Aug 16 15:41:57 hw-System-Product-Name apparmor[510]:  * Starting AppArmor profiles
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Starting Clean up any mess left by 0dns-up...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Starting Set console font and keymap...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Starting AppArmor initialization...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-3-34-1804, revision 36...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-3-28-1804, revision 128...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-characters, revision 539...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-logs, revision 93...
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for gnome-calculator, revision 748...
+Aug 16 15:41:57 hw-System-Product-Name kernel: [    0.000000] microcode: microcode updated early to revision 0xdc, date = 2020-04-27
+Aug 16 15:41:57 hw-System-Product-Name systemd[1]: Mounting Mount unit for core18, revision 1880...
+Aug 16 15:41:57 hw-System-Product-Name kernel: [    0.000000] Linux version 5.4.0-42-generic (buildd@lgw01-amd64-023) (gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)) #46~18.04.1-Ubuntu SMP Fri Jul 10 07:21:24 UTC 2020 (Ubuntu 5.4.0-42.46~18.04.1-generic 5.4.44)
+
+
