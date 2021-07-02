@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title></title>
+<!--
+Container
+- display
+- flex-flow
+    flex-direction
+    flex-wrap
+- jutify-content
+- align-content
+- aligm-items
+
+Item
+- order
+- flex
+    flex-grow
+    flex-shrink
+    flex-basis
+- align-self
+-->
+  <style>
+    .container{
+      border: 2px solid red;
+    }
+    .container .item{
+        width: 100px;
+        height: 100px;
+        border: 2px solid;
+        border-radius: 10px;
+        /* display: inline;  */
+        /* inline : 왼쪽에서 오른쪽 수평으로 정렬 되지만 기본적으로 가로 세로 속성을 가질수 없다.*/ 
+        
+        
+        /* display: inline-block;*/
+        /* 
+        <div>와  <div>사이에 공백이 폰트 기준 띄어쓰기 여서 item간에 공백이 있음.
+        해결 방법 1
+        <div class="container">
+        <div class="item"></div><!--
+        --><div class="item"></div>
+        <div class="item"></div>
+        </div>
+
+        해결 방법 2
+        .container{
+        border: 2px solid red;
+        font-size : 0;
+        }
+        .container .item{
+        width: 100px;
+        height: 100px;
+        border: 2px solid;
+        border-radius: 10px;
+        font-size:16px;
+        }
+        */
+      }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+</div>
+  
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title></title>
+  <!--
+    #flex-direction
+
+    Items의 주 축(main-axis)을 설정합니다.
+
+    값		의미					기본값
+    ---------------------------------------------------------------
+    row		Items를 수평축(왼쪽에서 오른쪽으로)으로 표시	row
+    row-reverse	Items를 row의 반대 축으로 표시
+    column		Items를 수직축(위에서 아래로)으로 표시
+    column-reverse	Items를 column의 반대 축으로 표시
+
+
+    flex-direction: 주축;
+    flex-direction: row;(default)
+    flex-direction: column;
+
+    main-start 와 main-end는 주축 변경에 영향을 받지만
+    cross-start와 cross-end는 교차축 변경되어도 변함이 없다.
+  -->
+
+  <style>
+    .container{
+      border: 2px solid red;
+      /* display: flex; */
+      display: inline-flex;
+      flex-direction: column;
+    }
+    .container .item{
+        width: 100px;
+        height: 100px;
+        border: 2px solid;
+        border-radius: 10px;
+        
+      }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+</div>
+<div class="container">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+</div>
+<div class="container">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+</div>
+  
+</body>
+</html>
